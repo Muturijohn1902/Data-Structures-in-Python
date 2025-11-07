@@ -73,6 +73,7 @@ def delete_data():
     target = input("Enter target : ")
     list.delete_node(target)
 
+# Run a simple program to add, delete and display data stored
 isRunning = True
 while isRunning:
     print("Menu")
